@@ -2,5 +2,5 @@ def series(n):
   for i in range(n):
     print(i,end=" ")
 
-num = int(input("Enter a number: "))
-series(num)
+series_oders_num = int(input("Enter a number: "))
+series(series_orders_num)
